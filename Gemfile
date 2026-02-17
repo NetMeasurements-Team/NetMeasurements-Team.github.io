@@ -4,6 +4,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
 gem "tzinfo-data"
+gem "nokogiri", "< 1.14"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!

@@ -52,4 +52,10 @@ var store = [{
         "tags": [],
         "url": "/2025/01/27/ICLR.html",
         "teaser": null
+      },{
+        "title": "Michele Ferrero joins the group",
+        "excerpt":"Michele Ferrero is a PhD student through a CIFRE scolarship granted by Huawei Technologies Co.,Ltd in Paris through the support of EURECOM (Prof. Roberto Morabito)  ","categories": [],
+        "tags": [],
+        "url": "/2025/04/01/Michele.html",
+        "teaser": null
       }]
